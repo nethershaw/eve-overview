@@ -1,0 +1,12 @@
+---
+name: ""
+symbol: ♠ Condition I
+level: 0
+groups:
+  - common-minimal
+  - _celestial-sun
+  - _ship
+  - _entity-destructible_sentry_gun
+  - _celestial-wormhole
+states:
+  - hostile

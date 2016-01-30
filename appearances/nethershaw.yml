@@ -1,0 +1,143 @@
+backgroundOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 19
+- 18
+- 53
+- 50
+- 51
+- 9
+- 10
+- 20
+- 21
+- 17
+- 48
+backgroundStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 53
+- 50
+- 51
+- 9
+- 19
+- 18
+- 10
+- 17
+- 48
+- 21
+- 20
+flagStates:
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 49
+- 50
+- 51
+- 52
+- 53
+stateBlinks:
+- - background_13
+  - true
+- - background_44
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_53
+  - false
+- - background_9
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - true
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_53
+  - true
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_10
+  - white
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - red
+- - background_20
+  - white
+- - background_21
+  - white
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_48
+  - black
+- - background_49
+  - blue
+- - background_50
+  - yellow
+- - background_51
+  - orange
+- - background_52
+  - darkTurquoise
+- - background_53
+  - yellow
+- - background_9
+  - orange
+- - flag_14
+  - darkTurquoise
+- - flag_48
+  - black

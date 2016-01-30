@@ -1,0 +1,25 @@
+---
+- name: 0
+  color: FFFF00FF
+  overview: extra-warpout
+  bracket: brackets-pvp
+
+- name: I
+  color: FFFF0000
+  overview: hostile-minimal
+  bracket: brackets-pvp
+
+- name: II
+  color: FFFFAA00
+  overview: pve
+  bracket: brackets-all
+
+- name: III
+  color: FFFFFF00
+  overview: dscan-skirmish-long
+  bracket: brackets-all
+
+- name: IV
+  color: FF00FF00
+  overview: friendly-ships
+  bracket: brackets-all

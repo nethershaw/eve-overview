@@ -1,0 +1,7 @@
+userSettings:
+- - applyOnlyToShips
+  - true
+- - overviewBroadcastsToTop
+  - true
+- - useSmallText
+  - true

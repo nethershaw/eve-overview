@@ -1,0 +1,62 @@
+shipLabelOrder:
+- ship type
+- alliance
+- null
+- corporation
+- pilot name
+- ship name
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ']['
+    - - state
+      - 1
+    - - type
+      - null
+- - alliance
+  - - - post
+      - </color>
+    - - pre
+      - <color=0xFFFFB900>
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - </b></color>
+    - - pre
+      - '] <color=0xFFFFFFFF><b>'
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - '  <fontsize=11><color=0xFFFEFF6F><b>'
+    - - pre
+      - ' : '
+    - - state
+      - 1
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - ' : ['
+    - - pre
+      - ''
+    - - state
+      - 1
+    - - type
+      - ship type
