@@ -1,0 +1,17 @@
+---
+name: ""
+symbol: ♠ Condition II
+level: 0
+groups:
+  - common-pve
+  - _asteroid
+  - _celestial-harvestable_cloud
+  - rats
+  - _ship
+  - _celestial-sun
+  - _charge
+  - _entity-destructible_sentry_gun
+  - _sovereignty_structures
+  - _celestial-wormhole
+states:
+  - all

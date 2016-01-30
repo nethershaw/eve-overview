@@ -5,7 +5,7 @@ require 'yaml'
 build = 'Overview'
 
 task default: :build
-task build: [:reset_build_directory, :compile_overviews]
+task build: [:compile_overviews]
 task travis: [:build, :zip]
 
 task :reset_build_directory do

@@ -1,0 +1,15 @@
+---
+name: ""
+symbol: ♠ Condition 0
+level: 0
+groups:
+  - common-minimal
+  - _celestial-sun
+  - _celestial-moon
+  - _celestial-asteroid_belt
+  - _orbitals-orbital_infrastructure
+  - _structure-control_tower
+  - _celestial-force_field
+  - _celestial-wormhole
+states:
+  - all

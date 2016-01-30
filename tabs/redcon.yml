@@ -1,0 +1,25 @@
+---
+- name: ❤
+  color: FFFF00FF
+  overview: con0
+  bracket: brackets-pvp
+
+- name: " ➊ "
+  color: FFFF0000
+  overview: con1
+  bracket: brackets-pvp
+
+- name: " ➋ "
+  color: FFFFAA00
+  overview: con2
+  bracket: brackets-all
+
+- name: " ➌ "
+  color: FFFFFF00
+  overview: con3
+  bracket: brackets-all
+
+- name: " ➍ "
+  color: FF00FF00
+  overview: con4
+  bracket: brackets-all

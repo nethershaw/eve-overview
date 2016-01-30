@@ -1,0 +1,24 @@
+---
+name: ""
+symbol: ♠ Condition III
+level: 0
+groups:
+  - common-pvp
+  - _ship
+  - _drone
+  - gates
+  - beacons
+  - containers
+  - _structure-control_tower
+  - _celestial-force_field
+  - _celestial-planet
+  - _celestial-sun
+  - _station
+  - _celestial-wreck
+  - _celestial-biomass
+  - _deployable-mobile_warp_disruptor
+  - _charge
+  - _entity-destructible_sentry_gun
+  - _celestial-wormhole
+states:
+  - all
