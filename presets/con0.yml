@@ -9,7 +9,6 @@ groups:
   - _celestial-asteroid_belt
   - _orbitals-orbital_infrastructure
   - _structure-control_tower
-  - _celestial-force_field
   - _celestial-wormhole
 states:
   - all
