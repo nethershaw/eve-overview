@@ -8,7 +8,7 @@ groups:
   - _celestial-moon
   - _celestial-asteroid_belt
   - _orbitals-orbital_infrastructure
-  - _structure-control_tower
+  - _starbase-control_tower
   - _celestial-wormhole
 states:
   - all

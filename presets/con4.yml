@@ -9,7 +9,7 @@ groups:
   - _drone
   - gates
   - beacons
-  - _structure-control_tower
+  - _starbase-control_tower
   - containers
   - _station
   - _celestial-wreck

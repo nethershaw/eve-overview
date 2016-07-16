@@ -13,6 +13,6 @@ groups:
   - _entity-destructible_sentry_gun
   - _sovereignty_structures
   - _celestial-wormhole
-  - _structure-control_tower
+  - _starbase-control_tower
 states:
   - all

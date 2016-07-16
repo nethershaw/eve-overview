@@ -9,7 +9,7 @@ groups:
   - gates
   - beacons
   - containers
-  - _structure-control_tower
+  - _starbase-control_tower
   - _celestial-force_field
   - _celestial-planet
   - _celestial-sun
